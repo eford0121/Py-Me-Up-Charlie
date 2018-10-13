@@ -41,6 +41,6 @@ print ("Financial Analysis")
 print("---------------------------")
 print (f"Total Months: " + str(total_months))
 print (f"Total Profit: $" +str(total_profit))
-print (f"Average Change: $")) #Could not figure this part out. Sorry!
+print (f"Average Change: $- unable to figure this value out") 
 print (f"Greatest Increase in Profits: " + str(greatest_inc_mn) + " ($" + str(greatest_inc)+ ")")
 print (f"Greatest Increase in Profits: " + str(greatest_dec_mn) + " ($" + str(greatest_dec)+ ")")
